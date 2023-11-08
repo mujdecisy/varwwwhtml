@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from servestatic.server import Server
+from varwwwhtml.server import Server
 
 
 class TestPath(TestCase):
